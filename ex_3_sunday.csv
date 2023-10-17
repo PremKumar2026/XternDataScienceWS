@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, USA",1.3 mi,30 mins,1.4 mi,8 mins,4.8,8:00AM-11:00PM,n/a,n/a,drive
+2,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, USA",Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",2.4 mi,54 mins,2.5 mi,8 mins,4.3,11:00AM-11:00PM,n/a,n/a,drive
+3,Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",1.1 mi,24 mins,1.1 mi,3 mins,4.4,11:00AM-11:50PM,True,n/a,walk
+4,Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",4.1 mi,1 hour 30 mins,4.3 mi,12 mins,5.0,8:30PM-2:30AM,n/a,n/a,drive
+5,The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",1.5 mi,33 mins,2.1 mi,7 mins,n/a,-,-,-,drive

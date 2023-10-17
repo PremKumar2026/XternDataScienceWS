@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",6.7 mi,2 hours 29 mins,7.8 mi,16 mins,5.0,11:00AM-10:00PM,False,False,drive
+2,KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",The Latin Flavor,"9930 E 38th St, Indianapolis, IN 46235, USA",13.1 mi,4 hours 52 mins,17.8 mi,25 mins,5.0,12:00PM-11:00PM,n/a,n/a,drive
+3,The Latin Flavor,"9930 E 38th St, Indianapolis, IN 46235, USA",Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",16.8 mi,6 hours 11 mins,21.6 mi,29 mins,4.7,6:00PM-12:00AM,True,n/a,drive
+4,Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222, USA",3.6 mi,1 hour 19 mins,3.6 mi,11 mins,4.5,5:00PM-12:00AM,False,False,drive
+5,FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222, USA",Indianapolis Bus Station,"350 S Illinois St, Indianapolis, IN 46225, USA",3.0 mi,1 hour 5 mins,3.1 mi,10 mins,-,-,-,-,drive
