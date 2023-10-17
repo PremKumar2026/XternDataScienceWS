@@ -1,5 +1,36 @@
-I used Google Maps to find "food trucks in Indianapolis". From what I found, I chose 4 trucks for Saturday and 4 for Sunday. The idea was to have breakfast at one, lunch at the next, dinner at another, and maybe a late-night snack at the last one.
+<h1>Food Truck Route Planner</h1>
 
-I used another tool, routes-and-directions API, to find the exact spots of the trucks. Then, I used a tool called folium to draw a map that shows how to go from one truck to another. It was a fun mix of tech and food planning!
+This project contains a notebook and associated data files that create an optimal route to visit food trucks in Indianapolis over a weekend. The primary objective is to help someone new to the city plan their meals over the weekend, covering breakfast, lunch, dinner, and late-night snacks, using food trucks.
 
-The complete set of results is in Github repo. The final plans are saved as ex_#_day.csv, and you can find the maps labeled as day#_map.html. If you want to see the maps in action, just download the HTML files to your computer and open them with a web browser.
+**Tasks Covered:**
+
+**Data Gathering:** Used Google Maps API to find food trucks in Indianapolis.   
+**Data Cleaning and Processing:** Organized the obtained data into structured form, and cleaned up any inconsistencies or missing values.   
+**Selection:** Filtered out the best food trucks based on user preferences (e.g., opening hours) and chose 4 for each day of the weekend.   
+**Routing:** Once the food trucks were selected for each day, determined the best route to visit them using Routes and Directions API and then visualized this route using Folium.   
+
+**Methods Used:**   
+Google Maps API: For collecting data about the food trucks.   
+Routes and Directions API: Used for extracting latitude and longitude details for route planning.    
+Folium: A Python library used for visualizing the routes on a map.    
+Pandas: For data manipulation and analysis.      
+
+**Results:**   
+The results include a schedule (saved as ex_#_day.csv) and a visual map (day#_map.html) for both Saturday and Sunday. To get a view of the route, you can download the HTML map files and open them in any web browser.
+
+**How to Use:**     
+Clone or download this repository to your local machine.
+Navigate to the folder containing the notebook.
+Run the Jupyter Notebook to see the complete code, data processing steps, and results.
+If you want a detailed visual representation, open the day#_map.html files in your browser.   
+**Note:** Make sure you have all the required libraries installed to run the notebook.
+
+**Tags:**   
+-Route Planning   
+-Food Truck   
+-Indianapolis  
+-Google Maps API  
+-Folium  
+-Data Visualization  
+-Routes and Directions API   
+-Weekend Planner   
